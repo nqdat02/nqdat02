@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**nqdat02/nqdat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=nqdat02&color=blue)
 
-Here are some ideas to get you started:
+## Top Github Stats🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+![Nguyen Quoc Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nqdat02&show_icons=true&theme=transparent)
+
+</div>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqdat02&layout=compact&langs_count=10&theme=transparent)](https://github.com/nqdat2002/github-readme-stats)
+
+</div>
+
